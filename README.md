@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sehn1302
 - 👀 I’m interested in Data sciences with Machine learning
 - 🌱 I’m currently learning Ai models with Python
-- 💞️ I’m looking to collaborate on Stock Sage
 - 📫 How to reach me - sehanbalajee@gmail.com
 
 <!---
